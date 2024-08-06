@@ -1,0 +1,6 @@
+opencv-python-headless
+numpy
+pandas
+pyttsx3
+speech_recognition
+
